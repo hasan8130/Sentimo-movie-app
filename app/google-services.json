@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078437504102",
+    "project_id": "sentimo-a9f7a",
+    "storage_bucket": "sentimo-a9f7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078437504102:android:38640de5cb80f58a2a79a7",
+        "android_client_info": {
+          "package_name": "com.example.sentimo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078437504102-h43eqij1jl4vde2k7hignq12v1ng9t90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8nzo95IDIu1sCKNQ1ltGO_pkmgfyGIgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078437504102-h43eqij1jl4vde2k7hignq12v1ng9t90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
