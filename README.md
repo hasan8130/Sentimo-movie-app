@@ -3,25 +3,25 @@
 ## Screen Shots:
 
 ### Splash Screen
-![image](https://github.com/hasan8130/Kill-Bill--2D-game/assets/67535635/81730b22-16bf-4805-b7a8-912c75ca71dc)
+![WhatsApp Image 2023-07-11 at 20 31 13](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/dabca58a-6db6-4dc5-b6ed-ad2e619b76a3)
 
 
 ### Intro Slider View
 
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/afdb27aa-f4f8-413a-a8ed-67bdc306438f)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/6a3a5652-b139-46a5-a5fb-96a1ee4632ef)
+![WhatsApp Image 2023-07-11 at 20 26 46](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/c0cda308-bc32-4531-949a-fee1ccb3efb2)
+![WhatsApp Image 2023-07-11 at 20 26 27](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/b4d24eae-e8b2-42d6-a724-2d87f0fdfae0)
+
 
 
 ### List of Movies
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/8dff8b6a-11cf-4db7-ad35-89046added8e)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/c78303b5-975c-413e-a847-49c93aa87458)
+![WhatsApp Image 2023-07-11 at 20 28 01](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/881a0930-829b-4931-b4aa-5b1ff2b7c2ea)
+![WhatsApp Image 2023-07-11 at 20 27 41](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/f5b19ea4-a257-44fc-bf05-8ef39bee0c00)
 
 
 ### Movie Synopsis and Reviews
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/758b2e7b-7b5d-4323-b33b-5a1833c6dafe)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/0e33735b-6b5f-493f-8051-9feb41f8e5a5)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/6e9dd558-5b14-49b8-939c-df4048d350b2)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/1eb54dc0-e907-4422-8f77-68b0e51697fc)
+![WhatsApp Image 2023-07-11 at 20 29 49 (1)](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/530b66f3-d4cf-4f8a-bd3c-db77123ede00)
+![WhatsApp Image 2023-07-11 at 20 29 27](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/6bcb15d0-c828-4f17-af4e-29f3e85ffb53)
+![WhatsApp Image 2023-07-11 at 20 29 49](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/6f363662-d90d-4bd0-9d88-b628a9665fc4)
 
 
 
