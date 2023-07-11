@@ -1,16 +1,29 @@
 # Sentimo-movie-app
 
-Screen Shots:
-![ss1](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/1ca1dc91-d3d2-4905-a865-4c4d100709c8)
-![ss2](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/82bc100f-1938-48d7-83cc-62dbf6b078d2)
-![ss3](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/ac8e050b-250e-4a1e-8ccb-c8af8f2b48aa)
-![ss4](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/c546c05b-d9ca-4054-b56a-54c42af75054)
-![ss5](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/682ccf23-9093-4b5d-94f9-e47f8e015842)
-![ss6](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/df2cc821-0a35-4dc0-a54d-755b41d6ca04)
-![ss7](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/5bb3e1d0-740b-4451-89d9-bc348aa2768e)
-![ss8](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/adcb83b7-e243-42f0-9a23-582d483b79b4)
-![ss9](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/04613410-bff0-4439-b994-4e7ee588a89c)
-![ss10](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/31c7193b-8404-4279-aff2-c2498e42df92)
+## Screen Shots:
+
+### Spalash Screen
+![image](https://github.com/hasan8130/Kill-Bill--2D-game/assets/67535635/81730b22-16bf-4805-b7a8-912c75ca71dc)
+
+
+### Intro Slider View
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/e9e52180-4e49-4a83-a723-65ef234ffc24)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/d2032107-2157-48d8-8f32-5a03ab4fbf05)
+
+
+### List of Movies
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/8dff8b6a-11cf-4db7-ad35-89046added8e)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/c78303b5-975c-413e-a847-49c93aa87458)
+
+
+### Movie Synopsis and Reviews
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/758b2e7b-7b5d-4323-b33b-5a1833c6dafe)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/0e33735b-6b5f-493f-8051-9feb41f8e5a5)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/00fe0e0c-0244-4f0e-85fe-db9cfa794e0b)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/1eb54dc0-e907-4422-8f77-68b0e51697fc)
+
+
+
 
 ## Video Link :
 Click [here](https://youtu.be/brLjGLSiDCU)
