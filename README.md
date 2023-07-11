@@ -7,8 +7,9 @@
 
 
 ### Intro Slider View
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/e9e52180-4e49-4a83-a723-65ef234ffc24)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/d2032107-2157-48d8-8f32-5a03ab4fbf05)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/afdb27aa-f4f8-413a-a8ed-67bdc306438f)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/e8aa8d21-163c-4e36-8a8b-9dd7168910f4)
+
 
 
 ### List of Movies
@@ -19,8 +20,9 @@
 ### Movie Synopsis and Reviews
 ![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/758b2e7b-7b5d-4323-b33b-5a1833c6dafe)
 ![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/0e33735b-6b5f-493f-8051-9feb41f8e5a5)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/00fe0e0c-0244-4f0e-85fe-db9cfa794e0b)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/6e9dd558-5b14-49b8-939c-df4048d350b2)
 ![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/1eb54dc0-e907-4422-8f77-68b0e51697fc)
+
 
 
 
