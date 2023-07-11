@@ -1,5 +1,11 @@
 # Sentimo-movie-app
 
+
+## Video Link :
+Click [here](https://youtu.be/brLjGLSiDCU)
+
+
+
 ## Screen Shots:
 
 ### Splash Screen
@@ -27,5 +33,3 @@
 
 
 
-## Video Link :
-Click [here](https://youtu.be/brLjGLSiDCU)
