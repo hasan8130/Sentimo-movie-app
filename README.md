@@ -6,7 +6,7 @@ Click [here](https://youtu.be/brLjGLSiDCU)
 
 ## Report :
 Click [here](https://docs.google.com/presentation/d/1E5SLM8wBrcGcqho62iV3lJOBBGh2S2bOjgV1vuFFIZ4/edit#slide=id.g22c86012a82_2_145)
-https://docs.google.com/presentation/d/1E5SLM8wBrcGcqho62iV3lJOBBGh2S2bOjgV1vuFFIZ4/edit#slide=id.g22c86012a82_2_145
+
 
 
 
