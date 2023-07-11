@@ -2,7 +2,7 @@
 
 ## Screen Shots:
 
-### Spalash Screen
+### Splash Screen
 ![image](https://github.com/hasan8130/Kill-Bill--2D-game/assets/67535635/81730b22-16bf-4805-b7a8-912c75ca71dc)
 
 
