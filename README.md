@@ -8,7 +8,7 @@
 
 ### Intro Slider View
 ![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/afdb27aa-f4f8-413a-a8ed-67bdc306438f)
-![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/e8aa8d21-163c-4e36-8a8b-9dd7168910f4)
+![image](https://github.com/hasan8130/Sentimo-movie-app/assets/67535635/6a3a5652-b139-46a5-a5fb-96a1ee4632ef)
 
 
 
